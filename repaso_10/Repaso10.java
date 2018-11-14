@@ -1,5 +1,5 @@
 
-package repaso10;
+package repaso_10;
 
 import java.util.Scanner;
 
