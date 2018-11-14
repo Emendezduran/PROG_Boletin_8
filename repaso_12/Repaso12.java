@@ -25,6 +25,8 @@ public class Repaso12 {
             System.out.println("Desea Calcular la media de otro alumno?");
             respuesta = scan1.next();
 
-        } while (respuesta != "no");
+        } while (respuesta.equalsIgnoreCase("si"));
+        
+        
     }
 }
