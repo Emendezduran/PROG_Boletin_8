@@ -1,4 +1,3 @@
-
 package repaso_10;
 
 import java.util.Scanner;
